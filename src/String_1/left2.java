@@ -6,7 +6,7 @@ public class left2 {
 //    The string length will be at least 2.
 
     public static void main(String[] args) {
-        System.out.println(new left2().left2("ggerNi"));
+        System.out.println(new left2().left2("mputerCo"));
     }
 
     public String left2(String str) {
